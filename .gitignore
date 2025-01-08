@@ -1,10 +1,11 @@
 HELP.md
+estudo.txt
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-estudo.txt
+
 
 ### STS ###
 .apt_generated
